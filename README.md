@@ -55,14 +55,3 @@ booking process.
 category.
 4.To prevent un-preferable bookings, the system should respond likewise and also a
 coordinator will be coordinating the whole process.
-
-
-## Tools and Technology Used
-Hardware Requirements
-1.Mac, Unix and Windows client computers
-2.The integrated environment & utilities that will host the university-wide databases
-3.Other hardware related support (redundant drives, UPS, etc.)
-Software Requirements
-1.We used Core Java to design the Graphical User Interface of the application.
-2.The integrated development environment for configuration of the application
-3.SQLITE JDBC API is used for database management.
